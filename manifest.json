@@ -1,0 +1,28 @@
+{
+  "name": "Assistant Vaux-sur-Sûre",
+  "short_name": "VauxBot",
+  "description": "Assistant communal IA de la Commune de Vaux-sur-Sûre",
+  "start_url": "/VauxBot/",
+  "scope": "/VauxBot/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#1e6b7c",
+  "background_color": "#1e6b7c",
+  "lang": "fr-BE",
+  "icons": [
+    {
+      "src": "/VauxBot/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/VauxBot/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["government", "utilities"],
+  "prefer_related_applications": false
+}
